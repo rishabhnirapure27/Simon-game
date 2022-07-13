@@ -1,0 +1,61 @@
+body {
+  background-color: darkblue;
+}
+
+.main{
+  font-family :  'Pacifico';
+  letter-spacing: 1.2px;
+}
+
+h1{
+text-align: center;
+margin-top: 3px;
+font-size: 4.5rem;
+color:#FFE652;
+}
+
+.Text{
+  font-family: 'Press Start 2P';
+  text-align: center;
+  font-size: 3.1rem;
+  color: #E8E8CC;
+}
+
+.GameOver {
+  background-color : red;
+  opacity : 0.7;
+}
+
+.btn{
+  text-align: center;
+  margin: 0 400px;
+  box-sizing: border-box;
+}
+
+.green{
+  background-color: green;
+}
+
+.red{
+  background-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.blue{
+  background-color: blue;
+}
+
+button {
+  padding : 100px;
+  border-radius: 10%;
+  border: 5px solid;
+  margin: 16px 16px;
+}
+
+.pressed{
+  box-shadow: 0 10px 10px 0 #DBEDF3;
+  opacity: 0.25;
+}
